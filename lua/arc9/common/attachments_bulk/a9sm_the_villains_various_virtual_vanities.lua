@@ -174,7 +174,7 @@ ATT = {}
 
 ATT.PrintName = "No Anime Allowed"
 ATT.CompactName = "No Anime"
-ATT.Description = [[Originally made for a game called "The Streets" on ROBLOX, it has occurred to me that you people may want this. Arctic made a tool that lets you make stickers en masse and that's just asking for weeaboos to spam low-quality shit with it.
+ATT.Description = [[Originally made for a game called "The Streets" on ROBLOX, it has occurred to me that you people may want this. With the existence of stickers and them being relatively low effort to make, zero effort weeb shit will always follow. Don't believe me? Look at the Left 4 Dead 2 Workshop.
 "Design" by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/noanimeallowed")
 
