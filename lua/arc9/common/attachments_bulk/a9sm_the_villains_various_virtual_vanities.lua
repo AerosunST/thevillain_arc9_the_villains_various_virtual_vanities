@@ -300,7 +300,7 @@ ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_vampirja
 ATT = {}
 
 ATT.PrintName = "The Villain's Card (First Edition)"
-ATT.CompactName = "The Villain"
+ATT.CompactName = "Ace of Spades"
 ATT.Description = [[The Ace of Spades means bad luck. The Ace of Spades also means new beginnings.
 Design by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/thevillainscardfirstedition")
@@ -308,8 +308,24 @@ ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/thevillainsc
 ATT.Free = true
 
 ATT.Category = "stickers"
-ATT.Folder = "The Villain/Cards"
+ATT.Folder = "The Villain/Personal"
 
 ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/thevillainscardfirstedition"
 
 ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_thevillainscardfirstedition")
+ATT = {}
+
+ATT.PrintName = "The Villain (Spiral)"
+ATT.CompactName = "Spiral"
+ATT.Description = [[Spiral Into Obscurity.
+Design by The Villain.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/thevillainspiral")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Personal"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/thevillainspiral"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_thevillainspiral")
