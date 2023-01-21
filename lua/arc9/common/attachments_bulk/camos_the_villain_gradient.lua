@@ -82,3 +82,20 @@ ATT.CustomCamoScale_Priority = 10
 ATT.Folder = "The Villain/Gradient"
 
 ARC9.LoadAttachment(ATT, "camo_villain_party")
+
+ATT = {}
+
+ATT.PrintName = "White Gold"
+ATT.CompactName = "Gold"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_gradient/white_gold.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[Divine-ish looking gold-to-white gradient.
+
+PLEASE NOTE: Gradients may not look good on every weapon.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_gradient/pattern/white_gold"
+ATT.CustomCamoScale = 1
+ATT.CustomCamoScale_Priority = 10
+ATT.Folder = "The Villain/Gradient"
+
+ARC9.LoadAttachment(ATT, "camo_villain_white_gold")

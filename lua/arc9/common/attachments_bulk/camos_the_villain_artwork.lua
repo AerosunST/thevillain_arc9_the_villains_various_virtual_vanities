@@ -11,3 +11,17 @@ ATT.CustomCamoScale = 1
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_topographic")
+
+ATT = {}
+
+ATT.PrintName = "Lava Lamp Topography"
+ATT.CompactName = "LAVA"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/topographic_lava.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The product of a bored graphic designer horsing around in Photoshop and making something cool.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/topographic_lava"
+ATT.CustomCamoScale = 1
+ATT.Folder = "The Villain/Artwork"
+
+ARC9.LoadAttachment(ATT, "camo_villain_topographic_lava")
