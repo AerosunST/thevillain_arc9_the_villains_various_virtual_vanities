@@ -82,3 +82,20 @@ ATT.CustomCamoScale_Priority = 10
 ATT.Folder = "The Villain/Gradient"
 
 ARC9.LoadAttachment(ATT, "camo_villain_party")
+
+ATT = {}
+
+ATT.PrintName = "Shattered Apollo Purple"
+ATT.CompactName = "Purple"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_gradient/shattered_apollo_purple.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[Honorary purple-to-gray gradient preferred by members of The Shattered Apollo. They don't like evil too much.
+
+PLEASE NOTE: Gradients may not look good on every weapon.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_gradient/pattern/shattered_apollo_purple"
+ATT.CustomCamoScale = 1
+ATT.CustomCamoScale_Priority = 10
+ATT.Folder = "The Villain/Gradient"
+
+ARC9.LoadAttachment(ATT, "camo_villain_shattered_apollo_purple")
