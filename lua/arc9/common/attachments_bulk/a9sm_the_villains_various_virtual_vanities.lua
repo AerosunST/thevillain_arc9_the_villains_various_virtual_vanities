@@ -413,3 +413,19 @@ ATT.Folder = "The Villain/Personal"
 ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/arrowclubvhmkii"
 
 ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_arrowclubvhmkii")
+ATT = {}
+
+ATT.PrintName = "Arrowclub (Real Sticker)"
+ATT.CompactName = "Arrowclub (Real)"
+ATT.Description = [[This is a real-life sticker that I used to put on my things to prevent a particular brother of mine from stealing them. They were a flimsy material that left an absolute mess when torn off. It made it very easy to tell if something was stolen from me this way.
+Design by The Villain.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/arrowclubsticker")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Personal"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/arrowclubsticker"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_arrowclubsticker")
