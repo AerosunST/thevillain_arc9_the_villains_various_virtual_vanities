@@ -142,7 +142,8 @@ ATT = {}
 
 ATT.PrintName = "New Diddlandia (Emblem)"
 ATT.CompactName = "ND (Emblem)"
-ATT.Description = [[New Diddlandia is a fictional country that was created as a means to escape from the alarmingly fast growing number of "Gaybabies" in Old Diddlandia. While they are very friendly people, they are also extremely hostile to anyone who opposes them. Femboys are STRICTLY forbidden from New Diddlandia and will be shot on sight.
+ATT.Description = [[New Diddlandia is a fictional country that was created as a means to escape from the alarmingly fast growing number of "Gaybabies" in Old Diddlandia. While they are very friendly people, they are also extremely hostile to anyone who opposes them.
+Est. 2015
 Design by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/newdiddlandiaemblem")
 
@@ -158,7 +159,8 @@ ATT = {}
 
 ATT.PrintName = "New Diddlandia (Flag)"
 ATT.CompactName = "ND (Flag)"
-ATT.Description = [[New Diddlandia is a fictional country that was created as a means to escape from the alarmingly fast growing number of "Gaybabies" in Old Diddlandia. While they are very friendly people, they are also extremely hostile to anyone who opposes them. Femboys are STRICTLY forbidden from New Diddlandia and will be shot on sight.
+ATT.Description = [[New Diddlandia is a fictional country that was created as a means to escape from the alarmingly fast growing number of "Gaybabies" in Old Diddlandia. While they are very friendly people, they are also extremely hostile to anyone who opposes them.
+Est. 2015
 Design by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/newdiddlandiaflag")
 
@@ -205,7 +207,8 @@ ATT = {}
 
 ATT.PrintName = "StarSolar (Emblem)"
 ATT.CompactName = "Solar (Emblem)"
-ATT.Description = [[StarSolar is a fictional country that was created after the fall of New Diddlandia. After a failed war on femboys, and a quite brutal hostile takeover, New Diddlandia had two options: Surrender or give them the slip and move elsewhere. StarSolar gets its name from the method of which New Diddlandia used to sneak away, space travel.
+ATT.Description = [[StarSolar is a fictional country that was created after the fall of New Diddlandia. It is a tragedy to see the end of an era for a once glorious New Diddlandia, but gaybabies invited themselves in and ruined everything for everyone. Now they're sneaking away to start a new glorious country... Except this time, the party is going to be even better.
+Est. 2023
 Design by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/starsolaremblem")
 
@@ -221,7 +224,8 @@ ATT = {}
 
 ATT.PrintName = "StarSolar (Flag)"
 ATT.CompactName = "Solar (Flag)"
-ATT.Description = [[StarSolar is a fictional country that was created after the fall of New Diddlandia. After a failed war on femboys, and a quite brutal hostile takeover, New Diddlandia had two options: Surrender or give them the slip and move elsewhere. StarSolar gets its name from the method of which New Diddlandia used to sneak away, space travel.
+ATT.Description = [[StarSolar is a fictional country that was created after the fall of New Diddlandia. It is a tragedy to see the end of an era for a once glorious New Diddlandia, but gaybabies invited themselves in and ruined everything for everyone. Now they're sneaking away to start a new glorious country... Except this time, the party is going to be even better.
+Est. 2023
 Design by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/starsolarflag")
 
@@ -329,3 +333,83 @@ ATT.Folder = "The Villain/Personal"
 ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/thevillainspiral"
 
 ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_thevillainspiral")
+ATT = {}
+
+ATT.PrintName = "The Villain (White)"
+ATT.CompactName = "White Lines"
+ATT.Description = [[Conform to the world around you.
+Design by The Villain.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/thevillainwhite")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Personal"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/thevillainwhite"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_thevillainwhite")
+ATT = {}
+
+ATT.PrintName = "Aerosun (Natural)"
+ATT.CompactName = "Natural"
+ATT.Description = [[Break free from what binds you.
+Design by The Villain.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/aerosunnatural")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Personal"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/aerosunnatural"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_aerosunnatural")
+ATT = {}
+
+ATT.PrintName = "Aerosun (Synthetic)"
+ATT.CompactName = "Synthetic"
+ATT.Description = [[Do you ever feel as though you are living in a hell of your own design?
+Design by The Villain.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/aerosunsynthetic")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Personal"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/aerosunsynthetic"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_aerosunsynthetic")
+ATT = {}
+
+ATT.PrintName = "Arrowclub (Murvivi)"
+ATT.CompactName = "Arrowclub (M)"
+ATT.Description = [[Arrowclub logo dating back to 2018. Originally designed piece by piece in 2013. This is the final iteration of the logo... Well, excluding some of the color stuff around it. I'm not going to upload my logos straight up to the public.
+Design by The Villain.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/arrowclubmurvivi")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Personal"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/arrowclubmurvivi"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_arrowclubmurvivi")
+ATT = {}
+
+ATT.PrintName = "Arrowclub (Vampire Hunter Mk. II)"
+ATT.CompactName = "Arrowclub (VHMKII)"
+ATT.Description = [[Much clearer version of the Arrowclub logo made in 2018, initially originating in 2013. Utilized for a recreation and adaptation of a beloved hoodie. This logo is also painted on my wall behind my desk. That cost a lot, by the way.
+Design by The Villain.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/arrowclubvhmkii")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Personal"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/arrowclubvhmkii"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_arrowclubvhmkii")
