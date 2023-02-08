@@ -99,3 +99,33 @@ ATT.CustomCamoScale = 2
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_white_lines")
+
+ATT = {}
+
+ATT.PrintName = "L33T H@X0R C4M0"
+ATT.CompactName = "H@X0R"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/haxor.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[Another result of a bored graphic designer messing around in Photoshop and Illustrator. Once again there's no real significance to this but I thought it was too cool to just throw away.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/haxor"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Artwork"
+
+ARC9.LoadAttachment(ATT, "camo_villain_haxor")
+
+ATT = {}
+
+ATT.PrintName = "The Shattered Apollo"
+ATT.CompactName = "TSA"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/tsa1.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo are known as "The Averters of Evil". Formerly The Shattered Apollo was a one-man crew and did not have a proper name, previously focused on hunting vampires exclusively. It is now recognzied as a group effort that expands well beyond the undead. They now focus their strengths towards vanquishing what they deem evil.
+
+NOTE: This design is ***NOT*** permanent. It is too similar to White Lines (even though White Lines uses circles instead of lines, contrary to its name). It will stand as placeholder until I have a better way to translate what I want into a pattern.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/tsa1"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Artwork"
+
+ARC9.LoadAttachment(ATT, "camo_villain_tsa1")
