@@ -116,3 +116,20 @@ ATT.CustomCamoScale_Priority = 10
 ATT.Folder = "The Villain/Solid"
 
 ARC9.LoadAttachment(ATT, "camo_villain_solid_vjxpurple")
+
+ATT = {}
+
+ATT.PrintName = "Perfect Black"
+ATT.CompactName = "Perf. Black"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_solid/black_000.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[RGB 0 0 0 for maximum tactical gmod realism.
+
+Does not grant the user the N-Word pass.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_solid/pattern/black_000"
+ATT.CustomCamoScale = 1
+ATT.CustomCamoScale_Priority = 10
+ATT.Folder = "The Villain/Solid"
+
+ARC9.LoadAttachment(ATT, "camo_villain_solid_black_000")

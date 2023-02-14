@@ -120,7 +120,7 @@ ATT.PrintName = "The Shattered Apollo"
 ATT.CompactName = "TSA"
 ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/tsa1.png")
 ATT.Category = "universal_camo"
-ATT.Description = [[The Shattered Apollo are known as "The Averters of Evil". Formerly The Shattered Apollo was a one-man crew and did not have a proper name, previously focused on hunting vampires exclusively. It is now recognzied as a group effort that expands well beyond the undead. They now focus their strengths towards vanquishing what they deem evil.
+ATT.Description = [[The advent of the "Purple Midnight" eclipse brought chaos to the world when it merged every multiverse into one, weaving every thread of the Void into one horrifying conglomerate. Every work of fiction, every bedtime horror story... Had now all come to life, in a mere blink of an eye. Those who dared rise up against the beasts of otherworldly nature called themselves "The Shattered Apollo", the Averters of Evil. Their mission: Seal the Void Eclipse and purge this world of the horrors that seeped through its cracks. Do you dare take arms in a display of courage against these horrid creatures, or do spend your days cowering in fear? The choice is yours.
 
 NOTE: This design is ***NOT*** permanent. It is too similar to White Lines (even though White Lines uses circles instead of lines, contrary to its name). It will stand as placeholder until I have a better way to translate what I want into a pattern.]]
 ATT.MenuCategory = "ARC-9 - Camos"
