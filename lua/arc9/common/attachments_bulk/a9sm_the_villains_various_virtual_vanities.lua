@@ -429,3 +429,18 @@ ATT.Folder = "The Villain/Personal"
 ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/arrowclubsticker"
 
 ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_arrowclubsticker")
+ATT = {}
+
+ATT.PrintName = "Shitterstink Watermark"
+ATT.CompactName = "Shitterstink"
+ATT.Description = [[smh bro you didn't make this pic, you can still see the watermark on it.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/shitterstink")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Shitpost"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/shitterstink"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_shitterstink")

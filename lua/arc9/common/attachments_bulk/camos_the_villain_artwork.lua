@@ -129,3 +129,33 @@ ATT.CustomCamoScale = 2
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_tsa1")
+
+ATT = {}
+
+ATT.PrintName = "Shitterstink Watermark"
+ATT.CompactName = "Shitterstink"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/shitterstink.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[smh bro you didn't make this pic, you can still see the watermark on it.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/shitterstink"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Artwork"
+
+ARC9.LoadAttachment(ATT, "camo_villain_shitterstink")
+
+ATT = {}
+
+ATT.PrintName = "Okay, ''The Villain''."
+ATT.CompactName = "OK Villain"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/okay_the_villain.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[Okay, "The Villain".
+
+Who the hell calls themself that, anyways?]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/okay_the_villain"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Artwork"
+
+ARC9.LoadAttachment(ATT, "camo_villain_okay_the_villain")
