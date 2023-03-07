@@ -207,8 +207,7 @@ ATT = {}
 
 ATT.PrintName = "StarSolar (Emblem)"
 ATT.CompactName = "Solar (Emblem)"
-ATT.Description = [[StarSolar is a fictional country that was created after the fall of New Diddlandia. It is a tragedy to see the end of an era for a once glorious New Diddlandia, but gaybabies invited themselves in and ruined everything for everyone. Now they're sneaking away to start a new glorious country... Except this time, the party is going to be even better.
-Est. 2023
+ATT.Description = [[An old pipe dream that yearns for escaping to a different land via space travel. Unfortunately such desires are unattainable.
 Design by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/starsolaremblem")
 
@@ -224,8 +223,7 @@ ATT = {}
 
 ATT.PrintName = "StarSolar (Flag)"
 ATT.CompactName = "Solar (Flag)"
-ATT.Description = [[StarSolar is a fictional country that was created after the fall of New Diddlandia. It is a tragedy to see the end of an era for a once glorious New Diddlandia, but gaybabies invited themselves in and ruined everything for everyone. Now they're sneaking away to start a new glorious country... Except this time, the party is going to be even better.
-Est. 2023
+ATT.Description = [[An old pipe dream that yearns for escaping to a different land via space travel. Unfortunately such desires are unattainable.
 Design by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/starsolarflag")
 
@@ -257,7 +255,10 @@ ATT = {}
 
 ATT.PrintName = "Vampire Hunter Society (Patriam)"
 ATT.CompactName = "VHS (Patriam)"
-ATT.Description = [[Est. 2073. Near-future military branch for a like-Earth planet named Patriam. They specialize in handling vampires and vampire-sympathizing terrorism. Much like the logo, Patriam is foreign to this dimension. If you happen to come across this insignia on any firearm or device, please be wary of any potential Void Leaks in your area.
+ATT.Description = [[Est. 2073. Formed in response to the largest mass resurgence of vampirism since 1993, the Vampire Hunter Society is a joint effort between science and military to both cure the dreaded BioNV-93 necrovirus- the virus that eventually causes vampirism, and run vampirism back into extinction. It is a noble cause, but not everyone is welcoming of their efforts. Many hold the belief that vampires are people much like humans are, meaning that exterminating them would be inhumane. These evolutionists are known as "Sympathy", the antithesis of Vampire Hunter Society's goals. No matter what stands in their way, Vampire Hunter Society stops at nothing to rid the world of vampirism.
+
+This is the Patriam version of the Vampire Hunter Society logo. Patriam is not the name of the story but rather the planet it takes place on. The story is directly adapted upon the original lore from Scarlet Hunter, except now it is fully realized into a proper universe. You may be familiar with the SYNTHESIS Abandonware Pack from ArcCW. Patriam is Scarlet Hunter's spiritual successor, and if you had any interest in the lore of the SYNTHESIS Pack, I strongly suggest checking this out when I am finished writing it.
+
 Design by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/vampirehuntersocietypatriam")
 
@@ -444,3 +445,18 @@ ATT.Folder = "The Villain/Shitpost"
 ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/shitterstink"
 
 ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_shitterstink")
+ATT = {}
+
+ATT.PrintName = "The Shattered Apollo Emblem"
+ATT.CompactName = "TSA"
+ATT.Description = [[The advent of the "Purple Midnight" eclipse brought chaos to the world when it merged every multiverse into one, weaving every thread of the Void into one horrifying conglomerate. Every work of fiction, every bedtime horror story... Had now all come to life, in a mere blink of an eye. Those who dared rise up against the beasts of otherworldly nature called themselves "The Shattered Apollo", the Averters of Evil. Their mission: Seal the Void Eclipse and purge this world of the horrors that seeped through its cracks. Do you dare take arms in a display of courage against these horrid creatures, or do spend your days cowering in fear? The choice is yours.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/theshatteredapolloemblem")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Logos"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/theshatteredapolloemblem"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_theshatteredapolloemblem")
