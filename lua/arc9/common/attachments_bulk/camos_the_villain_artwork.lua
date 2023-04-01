@@ -159,3 +159,17 @@ ATT.CustomCamoScale = 2
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_okay_the_villain")
+
+ATT = {}
+
+ATT.PrintName = "Steam Awards Sticker Bomb"
+ATT.CompactName = "Steam Awards"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/sastickerbomb.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[Cover your gun in appreciation.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/sastickerbomb"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Artwork"
+
+ARC9.LoadAttachment(ATT, "camo_villain_sastickerbomb")
