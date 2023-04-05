@@ -173,3 +173,17 @@ ATT.CustomCamoScale = 2
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_sastickerbomb")
+
+ATT = {}
+
+ATT.PrintName = "Arrowclub Color Printing Test Pattern"
+ATT.CompactName = "Color Test"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/arrowclub_testpat.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[A test pattern originally made to test the colors of a now-defunct clothes printing service after a hoodie I had ordered came out far too dark. The shirt I ordered using this pattern was so soft and comfortable that I decided to port the pattern to this camo pack. Enjoy :)]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/arrowclub_testpat"
+ATT.CustomCamoScale = 3
+ATT.Folder = "The Villain/Artwork"
+
+ARC9.LoadAttachment(ATT, "camo_villain_arrowclub_testpat")
