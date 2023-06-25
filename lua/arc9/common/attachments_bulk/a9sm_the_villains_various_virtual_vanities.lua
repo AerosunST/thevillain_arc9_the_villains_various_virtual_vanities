@@ -290,7 +290,7 @@ ATT = {}
 
 ATT.PrintName = "Vampirjager X Logo"
 ATT.CompactName = "VJX Logo"
-ATT.Description = [[Contrary to the name, you don't hunt that many vampires in Vampirjager X. Instead, it's a game where your enemy is up to YOUR definition of evil. You (and your friends) star in an alliance called ''The Shattered Apollo''. It is a multidimensional alliance. Your objective? Avert evil. It's very fast paced. Very arcade... And... I need someone to help me make it a real gamemode. Look, here's a demo video!! https://www.youtube.com/watch?v=J5XzPDg4v9I
+ATT.Description = [[Retired logo of an idea that eventually evolved into The Shattered Apollo.
 Design by The Villain.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/vampirjagerxlogo")
 
@@ -449,7 +449,7 @@ ATT = {}
 
 ATT.PrintName = "The Shattered Apollo Emblem"
 ATT.CompactName = "TSA"
-ATT.Description = [[The advent of the "Purple Midnight" eclipse brought chaos to the world when it merged every multiverse into one, weaving every thread of the Void into one horrifying conglomerate. Every work of fiction, every bedtime horror story... Had now all come to life, in a mere blink of an eye. Those who dared rise up against the beasts of otherworldly nature called themselves "The Shattered Apollo", the Averters of Evil. Their mission: Seal the Void Eclipse and purge this world of the horrors that seeped through its cracks. Do you dare take arms in a display of courage against these horrid creatures, or do spend your days cowering in fear? The choice is yours.]]
+ATT.Description = [[Emblem of The Shattered Apollo. Though they are from a shattered multiverse, they unite together to avert the evils of the Purple Midnight and its summoners. Anyone else sporting this on their uniform is likely your friend.]]
 ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/theshatteredapolloemblem")
 
 ATT.Free = true
