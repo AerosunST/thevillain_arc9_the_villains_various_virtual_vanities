@@ -199,3 +199,195 @@ ATT.CustomCamoScale = 2
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_baddewds")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Black"
+ATT.CompactName = "Geo Black"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geoblack.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is black.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geoblack"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geoblack")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Blue"
+ATT.CompactName = "Geo Blue"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geoblue.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is blue.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geoblue"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geoblue")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Cyan"
+ATT.CompactName = "Geo Cyan"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geocyan.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is cyan.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geocyan"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geocyan")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Green"
+ATT.CompactName = "Geo Cyan"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geogreen.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is green.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geogreen"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geogreen")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Orange"
+ATT.CompactName = "Geo Orange"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geoorange.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is orange.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geoorange"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geoorange")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Pink"
+ATT.CompactName = "Geo Pink"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geopink.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is pink.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geopink"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geopink")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Purple"
+ATT.CompactName = "Geo Purple"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geopurple.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is purple... It's slightly different from the actual Shattered Apollo camo, I swear!]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geopurple"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geopurple")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Red"
+ATT.CompactName = "Geo Red"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geored.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is red.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geored"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geored")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Teal"
+ATT.CompactName = "Geo Teal"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geoteal.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is teal.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geoteal"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geoteal")
+
+ATT = {}
+
+ATT.PrintName = "Geometric White"
+ATT.CompactName = "Geo White"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geowhite.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is white. Might actually be practical...]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geowhite"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geowhite")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Yellow"
+ATT.CompactName = "Geo Yellow"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geoyellow.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is yellow.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geoyellow"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geoyellow")
+
+ATT = {}
+
+ATT.PrintName = "Geometric Navy"
+ATT.CompactName = "Geo Navy"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geonavy.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
+
+This one is navy.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/geonavy"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Geometric"
+
+ARC9.LoadAttachment(ATT, "camo_villain_geonavy")
