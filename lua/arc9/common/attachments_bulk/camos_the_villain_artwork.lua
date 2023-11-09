@@ -185,3 +185,17 @@ ATT.CustomCamoScale = 3
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_arrowclub_testpat")
+
+ATT = {}
+
+ATT.PrintName = "Bad Dewds"
+ATT.CompactName = "Bad Dewds"
+ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/baddewds.png")
+ATT.Category = "universal_camo"
+ATT.Description = [[Gonna be entirely honest with you on this one, this is just the Shattered Apollo camo hueshifted green. It's shocking how well it replicates the Mountain Dew pattern. You know damn well I made it the official Bad Dewds pattern, too.]]
+ATT.MenuCategory = "ARC-9 - Camos"
+ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/baddewds"
+ATT.CustomCamoScale = 2
+ATT.Folder = "The Villain/Artwork"
+
+ARC9.LoadAttachment(ATT, "camo_villain_baddewds")
