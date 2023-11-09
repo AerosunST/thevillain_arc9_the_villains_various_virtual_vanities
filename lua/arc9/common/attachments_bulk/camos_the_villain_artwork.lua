@@ -251,7 +251,7 @@ ARC9.LoadAttachment(ATT, "camo_villain_geocyan")
 ATT = {}
 
 ATT.PrintName = "Geometric Green"
-ATT.CompactName = "Geo Cyan"
+ATT.CompactName = "Geo Green"
 ATT.Icon = Material("models/weapons/arc9/camo/the_villain_artwork/geogreen.png")
 ATT.Category = "universal_camo"
 ATT.Description = [[The Shattered Apollo's pattern was so cool, I decided to make a whole bunch of generic colors of it.
