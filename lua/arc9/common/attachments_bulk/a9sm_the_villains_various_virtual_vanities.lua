@@ -460,3 +460,20 @@ ATT.Folder = "The Villain/Logos"
 ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/theshatteredapolloemblem"
 
 ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_theshatteredapolloemblem")
+ATT = {}
+
+ATT.PrintName = "vHeaven DATA Server Security"
+ATT.CompactName = "DATA Security"
+ATT.Description = [[Logo for vHeaven's DATA Security sector. ... These are not good people.
+
+please read Tom Aero 0.]]
+ATT.Icon = Material("stickers/the_villains_various_virtual_vanities/vheavendatasecurity")
+
+ATT.Free = true
+
+ATT.Category = "stickers"
+ATT.Folder = "The Villain/Logos"
+
+ATT.StickerMaterial = "stickers/the_villains_various_virtual_vanities/vheavendatasecurity"
+
+ARC9.LoadAttachment(ATT, "sticker_the_villains_various_virtual_vanities_vheavendatasecurity")
