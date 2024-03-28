@@ -7,7 +7,7 @@ ATT.Category = "universal_camo"
 ATT.Description = [[Cool looking lines.]]
 ATT.MenuCategory = "ARC-9 - Camos"
 ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/topographic"
-ATT.CustomCamoScale = 1
+ATT.CustomCamoScale = 0.75
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_topographic")
@@ -65,7 +65,7 @@ ATT.Description = [[Designed in 2018 while I was studying Graphic Design in coll
 Despite this camo looking like it would tessellate seemlessly, it does not. This is because when I had created in in 2018, I did not know how to export a pattern directly to photoshop and is unfortunately the result of not understanding illustrator at the time. Instead, it was saved as a reeeaaaallly big (like, 16,000x16,000px) image.]]
 ATT.MenuCategory = "ARC-9 - Camos"
 ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/arrowclub_murvivi"
-ATT.CustomCamoScale = 2
+ATT.CustomCamoScale = 1
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_arrowclub_murvivi")
@@ -81,7 +81,7 @@ ATT.Description = [[Affectionately nicknamed "Vampire Hunter Mk. II", this was d
 Despite this camo looking like it would tessellate seemlessly, it does not. This is because when I had created in in 2018, I did not know how to export a pattern directly to photoshop and is unfortunately the result of not understanding illustrator at the time. Instead, it was saved as a reeeaaaallly big (like, 16,000x16,000px) image.]]
 ATT.MenuCategory = "ARC-9 - Camos"
 ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/arrowclub_vhmkii"
-ATT.CustomCamoScale = 2
+ATT.CustomCamoScale = 1
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_arrowclub_vhmkii")
@@ -95,7 +95,7 @@ ATT.Category = "universal_camo"
 ATT.Description = [[Surreal wavy lines.]]
 ATT.MenuCategory = "ARC-9 - Camos"
 ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/white_lines"
-ATT.CustomCamoScale = 2
+ATT.CustomCamoScale = 0.75
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_white_lines")
@@ -109,7 +109,7 @@ ATT.Category = "universal_camo"
 ATT.Description = [[Another result of a bored graphic designer messing around in Photoshop and Illustrator. Once again there's no real significance to this but I thought it was too cool to just throw away.]]
 ATT.MenuCategory = "ARC-9 - Camos"
 ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/haxor"
-ATT.CustomCamoScale = 2
+ATT.CustomCamoScale = 1
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_haxor")
@@ -137,7 +137,7 @@ ATT.Category = "universal_camo"
 ATT.Description = [[smh bro you didn't make this pic, you can still see the watermark on it.]]
 ATT.MenuCategory = "ARC-9 - Camos"
 ATT.CustomCamoTexture = "models/weapons/arc9/camo/the_villain_artwork/pattern/shitterstink"
-ATT.CustomCamoScale = 2
+ATT.CustomCamoScale = 1
 ATT.Folder = "The Villain/Artwork"
 
 ARC9.LoadAttachment(ATT, "camo_villain_shitterstink")
